@@ -1,3 +1,4 @@
+<?
 class UsersAPIAuthorization {
 	function AuthorizationAnswer() {
 		$arResult = array();
@@ -87,3 +88,4 @@ class UsersAPIAuthorization {
 		return $arResult;
 	}
 }
+?>
